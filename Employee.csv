@@ -1,0 +1,21 @@
+Employee_ID,Name,Age,Gender,Department,Job_Title,Salary,Experience,City
+101,Amit Sharma,25,Male,IT,Developer,45000,2,Pune
+102,Priya Verma,28,Female,HR,HR Executive,40000,4,Mumbai
+103,Rahul Patil,32,Male,Finance,Accountant,55000,8,Nashik
+104,Sneha Joshi,27,Female,Marketing,Marketing Executive,42000,3,Nagpur
+105,Rohan Deshmukh,30,Male,IT,Software Engineer,60000,7,Pune
+106,Neha Singh,26,Female,Sales,Sales Executive,38000,2,Aurangabad
+107,Karan Mehta,35,Male,Finance,Finance Manager,75000,10,Mumbai
+108,Pooja Kulkarni,29,Female,HR,HR Manager,65000,6,Pune
+109,Vikas Yadav,31,Male,IT,System Analyst,58000,8,Nashik
+110,Anjali Patil,24,Female,Marketing,Content Writer,36000,1,Kolhapur
+111,Sachin More,33,Male,Sales,Sales Manager,70000,9,Pune
+112,Kavita Rao,27,Female,Finance,Auditor,50000,4,Nagpur
+113,Ajay Kumar,29,Male,IT,Data Analyst,62000,5,Mumbai
+114,Meera Shah,26,Female,HR,Recruiter,41000,3,Pune
+115,Nikhil Jain,34,Male,Marketing,Marketing Manager,72000,11,Nashik
+116,Swati Patil,28,Female,Sales,Sales Executive,39000,4,Aurangabad
+117,Deepak Singh,36,Male,IT,Project Manager,90000,12,Mumbai
+118,Ritu Sharma,25,Female,Finance,Account Executive,43000,2,Pune
+119,Arjun Kale,31,Male,HR,HR Executive,47000,6,Nagpur
+120,Komal Joshi,30,Female,IT,Software Tester,52000,5,Kolhapur
